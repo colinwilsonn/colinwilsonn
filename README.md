@@ -1,6 +1,9 @@
 👋 Hi, I’m @colinwilsonn
+
 👀 I’m interested in all things media design.
+
 🌱 I’m currently learning HTML, CSS, and JavaScript.
+
 💞️ I’m currently building:
 
 Hawkeye: An innovative app for real estate agents in Canada, enhancing productivity with features like route planning, AI script generation, and automated reporting.
@@ -12,6 +15,7 @@ twentyfourhoursricher: A streetwear brand spreading positive messages to the you
 Fin’s Notica: A nautical brand combining the nautical alphabet and custom shirt design to promote ocean and environmental conservation.
 
 📫 Reach me via colinhenrywilson@gmail.com
+
 ⚡ Open to any freelance work.
 
 
